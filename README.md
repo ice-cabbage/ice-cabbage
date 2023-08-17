@@ -13,11 +13,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center"> 
+<h1>
+  🥬🍨🥬
+</h1>
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=2D0F5F&height=150&section=header&text=Ice-Cabbage&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=8AE850&text=Ice-Cabbage)
+
   
 ####  :wave: Welcome my github profile !
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fice-cabbage&count_bg=%237C7B76&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+<br/>
  <br/>
  <br/>
   
@@ -42,6 +49,7 @@ Here are some ideas to get you started:
  
    <br/>
    <br/>
+   <br/>
  
 #### :pencil2: Study log
  
@@ -57,7 +65,12 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/${ice-cabbage}">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ice-cabbage&show_icons=tongue&include_all_commits=true&theme=nord" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ice-cabbage&show_icons=tongue&include_all_commits=true&theme=dracula" />
   </a>
 </p>
 </div>
+
+<br/>
+
+<div align="center"> 
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=saeyeon" />
