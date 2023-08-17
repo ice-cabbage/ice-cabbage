@@ -22,7 +22,14 @@ Here are some ideas to get you started:
   
 ####  :wave: Welcome my github profile !
 
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fice-cabbage&count_bg=%237C7B76&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
+<a href="https://instagram.com/bird_kite423?igshid=MjEwN2lyYWYwYw==" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405f?style=flat-square&logo=instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/profile.php?id=100023882201299" target="_blank"><img src="https://img.shields.io/badge/facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:icecabbage13456@gmail.com)](mailto:icecabbage13456@gmail.com)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:9278saeyonpark@naver.com)](mailto:9278saeyonpark@naver.com)
 
 <br/>
  <br/>
