@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 -->
 <div align="center"> 
 <h1>
-  🥬🍨🥬
+  🥬🍧🥬
 </h1>
 
-![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=8AE850&text=Ice-Cabbage)
+![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=81c147&text=Ice-Cabbage)
 
   
 ####  :wave: Welcome my github profile !
