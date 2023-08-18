@@ -14,13 +14,17 @@ Here are some ideas to get you started:
 -->
 
 <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hi there 👋 </h2>  
+    <h1 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hi there 👋 </h1>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  🔅 I am a developer who grows with technology.</li></li></br></li></li> 🔅 I am a developer who pursues diversity.</li></li></br></li></li> 🔅 I am a junior developer growing up. </div> 
     </div>
     <div style="text-align: left;">
       </br>
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2>
     <div style="margin: ; text-align: left;" "text-align: left;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icecabbage&layout=compact&bg_color=180,00000000,1100ff&title_color=5092fb&text_color=5092fb"
+           /> 
+        <br/>
+        <br/>
           <img src="https://img.shields.io/badge/Android-3DDC84?style=plastic&logo=Android&logoColor=white">
           <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=React&logoColor=white">
           <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white">
@@ -37,12 +41,8 @@ Here are some ideas to get you started:
           <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white">
           <img src="https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=MongoDB&logoColor=white">
           </div>
-    </br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icecabbage&layout=compact&bg_color=180,00000000,1100ff&title_color=5092fb&text_color=5092fb"
-           /> 
-    </br>
     </div>
-    <div style="text-align: left;">
+    <div style="align: left;">
       </br>
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> 
     <div style="text-align: left;"> <a href=mailto:icecabbage13456@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white&link=mailto:icecabbage13456@gmail.com"> </a>
