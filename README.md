@@ -12,75 +12,54 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center"> 
-<h1>
-  🥬🍧🥬
-</h1>
 
-![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=81c147&text=Ice-Cabbage)
+<div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hi there 👋 </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  🔅 I am a developer who grows with technology.</li></li></br></li></li> 🔅 I am a developer who pursues diversity.</li></li></br></li></li> 🔅 I am a junior developer growing up. </div> 
+    </div>
+    <div style="text-align: left;">
+      </br>
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2>
+    <div style="margin: ; text-align: left;" "text-align: left;">
+          <img src="https://img.shields.io/badge/Android-3DDC84?style=plastic&logo=Android&logoColor=white">
+          <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=React&logoColor=white">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white">
+          <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=plastic&logo=Javascript&logoColor=white">
+          <br/>
+          <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white">
+          <img src="https://img.shields.io/badge/Go-00ADD8?style=plastic&logo=Go&logoColor=white">
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=HTML5&logoColor=white">
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=CSS3&logoColor=white">
+          <img src="https://img.shields.io/badge/Github-181717?style=plastic&logo=Github&logoColor=white">
+          <br/>
+          <img src="https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=Figma&logoColor=white">
+          <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=plastic&logo=Amazon AWS&logoColor=white">
+          <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white">
+          <img src="https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=MongoDB&logoColor=white">
+          </div>
+    </br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icecabbage&layout=compact&bg_color=180,00000000,1100ff&title_color=5092fb&text_color=5092fb"
+           /> 
+    </br>
+    </div>
+    <div style="text-align: left;">
+      </br>
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> 
+    <div style="text-align: left;"> <a href=mailto:icecabbage13456@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white&link=mailto:icecabbage13456@gmail.com"> </a>
+         <a href=https://www.instagram.com/bird_kite423/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=Instagram&logoColor=white&link=https://www.instagram.com/bird_kite423/"> </a>
+         <a href=https://magic-party-4b8.notion.site/Ice-cabbage-f17affb0b6a245009801d39585be0652?pvs=4> <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white&link=https://magic-party-4b8.notion.site/Ice-cabbage-f17affb0b6a245009801d39585be0652?pvs=4"> </a>
+          </div>  <br> 
+    <div style="text-align: left;"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ficecabbage%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
+       </div> 
+    </div>
+    <div style="text-align: left;"> 
+      </br>
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;">
+      <img src="https://github-readme-stats.vercel.app/api?username=icecabbage&bg_color=180,00000000,1100ff&title_color=000000&text_color=ffc800"  />
+      </br>
+      </br>
+      <img src="http://mazassumnida.wtf/api/generate_badge?boj=saeyeon" />
+      </div> 
+    </div>
+    </br>
 
-  
-####  :wave: Welcome my github profile !
-
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fice-cabbage&count_bg=%237C7B76&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-
-<a href="https://instagram.com/bird_kite423?igshid=MjEwN2lyYWYwYw==" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405f?style=flat-square&logo=instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/profile.php?id=100023882201299" target="_blank"><img src="https://img.shields.io/badge/facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:icecabbage13456@gmail.com)](mailto:icecabbage13456@gmail.com)
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:9278saeyonpark@naver.com)](mailto:9278saeyonpark@naver.com)
-
-<br/>
- <br/>
- <br/>
-  
-####  :clipboard: Once I've Used 
-  
- <br/>
-  
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-<img src="https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=React&logoColor=white">
-<img src="https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&logo=TypeScript&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> <br>
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white">
-<img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=MQTT&logoColor=white">
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"> <br>
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
-<img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=AndroidStudio&logoColor=white">
-<img src="https://img.shields.io/badge/EclipseMosquitto-3c5280?style=for-the-badge&logo=EclipseMosquitto&logoColor=white"></br>
-<img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=Amazon aws&logoColor=white">
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/Figma-f24e1e?style=for-the-badge&logo=Figma&logoColor=white">
-
- 
-   <br/>
-   <br/>
-   <br/>
- 
-#### :pencil2: Study log
- 
-  <br/>
-  
-<p align="center">
-  <a href="https://github.com/ice-cabbage">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ice-cabbage&layout=compact&show_icons=true&theme=nord" />
-  </a>
-</p>
-
-<br/>
-
-<p align="center">
-  <a href="https://github.com/${ice-cabbage}">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ice-cabbage&show_icons=tongue&include_all_commits=true&theme=dracula" />
-  </a>
-</p>
-</div>
-
-<br/>
-
-<div align="center"> 
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=saeyeon" />
