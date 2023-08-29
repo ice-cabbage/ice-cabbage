@@ -53,8 +53,16 @@ Here are some ideas to get you started:
     <div style="text-align: left;"> 
       </br>
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;">
-      <img src="http://mazassumnida.wtf/api/generate_badge?boj=saeyeon" />
+
+        
+</br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=ice-cabbage&bg_color=180,00000000,1100ff&title_color=000000&text_color=ffc800"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ice-cabbage&layout=compact&bg_color=180,00000000,1100ff&title_color=5092fb&text_color=5092fb"  />
       </div> 
     </div>
     </br>
+
+## ✏️ Backjoon
+<img src="http://mazassumnida.wtf/api/generate_badge?boj=saeyeon" />
 
