@@ -53,9 +53,6 @@ Here are some ideas to get you started:
     <div style="text-align: left;"> 
       </br>
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;">
-      <img src="https://github-readme-stats.vercel.app/api?username=icecabbage&bg_color=180,00000000,1100ff&title_color=000000&text_color=ffc800"  />
-      </br>
-      </br>
       <img src="http://mazassumnida.wtf/api/generate_badge?boj=saeyeon" />
       </div> 
     </div>
