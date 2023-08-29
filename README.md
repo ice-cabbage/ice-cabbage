@@ -25,6 +25,7 @@ Here are some ideas to get you started:
           <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=React&logoColor=white">
           <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white">
           <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=plastic&logo=Javascript&logoColor=white">
+          <img src="https://img.shields.io/badge/MQTT-660066?style=plastic&logo=MQTT&logoColor=white">
           <br/>
           <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white">
           <img src="https://img.shields.io/badge/Go-00ADD8?style=plastic&logo=Go&logoColor=white">
@@ -36,6 +37,7 @@ Here are some ideas to get you started:
           <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=plastic&logo=Amazon AWS&logoColor=white">
           <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white">
           <img src="https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=MongoDB&logoColor=white">
+          <img src="https://img.shields.io/badge/Mosquitto-3C5280?style=plastic&logo=Mosquitto&logoColor=white">
           </div>
     </div>
     <div style="align: left;">
