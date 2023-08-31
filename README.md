@@ -63,6 +63,6 @@ Here are some ideas to get you started:
     </div>
     </br>
 
-## ✏️ Backjoon
+## ✏️ Beakjoon
 <img src="http://mazassumnida.wtf/api/generate_badge?boj=saeyeon" />
 
